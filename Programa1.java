@@ -10,6 +10,7 @@ public class Programa1 {
         System.out.println("Programa 1");
         System.out.println("Bienvenidos");
         System.out.println("Prueba 2");
+        System.out.println("Prueba 3");
     }
     
 }
