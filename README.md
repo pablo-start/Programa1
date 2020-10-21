@@ -32,3 +32,9 @@ underline2
 |Nombre| Apellido |
 | ----- | ------ |
 | Pablo | Bernal |
+
+## Citas
+>esto es una cita
+Texto Normal
+
+>esto es otra cita
