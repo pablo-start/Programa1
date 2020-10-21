@@ -26,3 +26,8 @@ underline2
 <a href="https://www.linguee.es/ingles-espanol/traduccion/pets.html">Esto es un link</a>
 
 ![logo proyecto](https://www.eluniversal.com.mx/sites/default/files/2020/04/02/pets.jpg)
+
+## Tabla
+
+|Nombre||Apellido|
+|Pablo||Bernal|
