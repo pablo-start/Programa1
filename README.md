@@ -22,5 +22,7 @@ underline2
 2. Adios
 3. Como estas?
 4. Hasta luego
-#Links
+# links
 <a href="https://www.linguee.es/ingles-espanol/traduccion/pets.html">Esto es un link</a>
+
+![logo proyecto](https://www.eluniversal.com.mx/sites/default/files/2020/04/02/pets.jpg)
