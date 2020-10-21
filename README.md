@@ -29,5 +29,6 @@ underline2
 
 ## Tabla
 
-|Nombre||Apellido|
-|Pablo||Bernal|
+|Nombre| Apellido |
+| ----- | ------ |
+| Pablo | Bernal |
